@@ -54,6 +54,4 @@ Have questions or want to collaborate? Feel free to open an issue or drop us a m
 ---
 
 Thanks for being here 🙌  
-Let’s write the future of technology — one byte at a time.
-
-- The BytecodeDiary Team
+Let’s write the future of technology - one byte at a time. The BytecodeDiary Team
